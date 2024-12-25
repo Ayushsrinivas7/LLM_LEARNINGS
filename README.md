@@ -6,4 +6,6 @@
 Welcome to my project! This is a journey into building a ReAct Agent from scratch using Python and groq api . Here, I'll walk you through the learning experience, the fascinating architecture, and the functionalities behind this agent that integrates automation tools with large language models (LLMs).
 LLM used : Lamma 70b 3.3 
 here the main thing is Thought -> Action -> observation -> answer 
-https://miro.medium.com/v2/resize:fit:828/format:webp/1*RvysW273_WEVb9l5rwJZYg.png
+![ai agent inital 1](https://github.com/user-attachments/assets/060964fc-d62e-41b5-a2b9-826dd5fb53f5)
+reference https://medium.com/the-ai-forum/create-a-react-agent-from-scratch-without-using-any-llm-frameworks-only-with-python-and-groq-c10510d32dbc
+
