@@ -59,7 +59,7 @@ For **fine-tuning**, I made only the **last transformer block** and **final Laye
 - To **load the model**, use the `gpt2_model.py` file.  
 - Refer to my **previous Colab** to see how to **load pre-trained weights** into the custom model.  
 
----
+
 
 ## 🔹 Steps I Followed:
 ![Steps I Followed](https://drive.google.com/uc?export=view&id=1fJ-_7pNN9ngsp5AKcD5tCMhJ6qXuXS4z)
