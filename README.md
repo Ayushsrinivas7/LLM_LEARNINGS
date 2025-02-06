@@ -64,7 +64,7 @@ For **fine-tuning**, I made only the **last transformer block** and **final Laye
 ## 🔹 Steps I Followed:
 ![Steps I Followed](https://drive.google.com/uc?export=view&id=1fJ-_7pNN9ngsp5AKcD5tCMhJ6qXuXS4z)
 
----
+
 
 ## 🔹 LoRA Fine-Tuning Implementation:
 I also fine-tuned the model using **fully custom-built LoRA (Low-Rank Adaptation) code**:  
