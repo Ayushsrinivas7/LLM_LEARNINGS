@@ -74,7 +74,6 @@ I also fine-tuned the model using **fully custom-built LoRA (Low-Rank Adaptation
 
 ![LoRA Implementation](https://drive.google.com/uc?export=view&id=1wf-JfaUKMDZIU3CWFZmgvTVPvqovfuIv)
 
----
 
 This project was built **entirely from scratch**! 🚀  
 ___
