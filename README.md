@@ -1,4 +1,4 @@
-# This is AyushSrinivas7 (prathipati yadu vamsi ) From IIT patna  here are my entire llm learnings 
+# This is AyushSrinivas7 (prathipati yadu vamsi ) From IIT patna  here are my entire Learnings - Notes -Projects 
 # LLM_LEARNINGS
 
 You can find all my LLM learnings documented here.
