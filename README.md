@@ -41,7 +41,7 @@ I followed the book **"LLM from Scratch"** by Sebastian.
   - [Easy Weight Loading Techniques](https://github.com/Ayushsrinivas7/LLM_LEARNINGS/blob/main/LLM_FROM_SCRATCH/5_2Bringing_weights_from_hugginfface_lodaing_tipynb)
   - [Comprehensive Colab by the Author on Efficient Loading](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05)
 
-  ![Entire Architecture](https://drive.google.com/file/d/1DGy_8ZKTKYgG0DUzh9iNtEgwGMnpkLMc/view?usp=sharing)
+  ![Entire Architecture](https://drive.google.com/uc?export=view&id=1DGy_8ZKTKYgG0DUzh9iNtEgwGMnpkLMc)
 
 ---
 
