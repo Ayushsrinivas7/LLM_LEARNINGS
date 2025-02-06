@@ -1,6 +1,6 @@
 # This is AyushSrinivas7 (prathipati yadu vamsi ) From IIT patna  here are my entire Learnings - Notes -Projects in my LLM journey
 # LLM_LEARNINGS.
-You can find all my LLM learnings documented here.
+You can find all my LLM learnings documented here. 
 
 ## 1) Building Large Language Models from Scratch
 
