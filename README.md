@@ -1,3 +1,4 @@
+# this is AyushSrinivas7 (prathipati yadu vamsi ) From IIT patna  here are my entire llm learnings 
 # LLM_LEARNINGS
 
 You can find all my LLM learnings documented here.
@@ -43,9 +44,9 @@ I followed the book **"LLM from Scratch"** by Sebastian.
 
   ![Entire Architecture](https://drive.google.com/uc?export=view&id=1DGy_8ZKTKYgG0DUzh9iNtEgwGMnpkLMc)
 
----
+___
 
-This documentation will be updated as I learn more about LLMs. 🚀
+
 
       
         
