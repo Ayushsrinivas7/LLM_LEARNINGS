@@ -24,7 +24,7 @@ I followed the book **"LLM from Scratch"** by Sebastian.
 - Built core components like **Transformer, Attention, Feed Forward, Output Projection**, making the entire architecture customizable.
 - [Click here for my Colab notebook](https://github.com/Ayushsrinivas7/LLM_LEARNINGS/blob/main/LLM_FROM_SCRATCH/4_mylearning__CODING__THE_GPT_2.ipynb)
 
-  ![GPT Model Architecture](https://drive.google.com/file/d/1DAD3Rbi_3vJr9YmFmWecn-1rP7zIzEWm/view?usp=sharing)
+  ![GPT Model Architecture](https://drive.google.com/uc?export=view&id=1DAD3Rbi_3vJr9YmFmWecn-1rP7zIzEWm)
 
 #### 4. Implementing Loss Function from Scratch
 - Built the **entire loss function** from scratch.
