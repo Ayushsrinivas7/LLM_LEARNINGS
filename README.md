@@ -44,7 +44,11 @@ I followed the book **"LLM from Scratch"** by Sebastian.
   ![Entire Architecture](https://drive.google.com/uc?export=view&id=1DGy_8ZKTKYgG0DUzh9iNtEgwGMnpkLMc)
 
 ___
-
+---
+---
+---
+---
+---
 # 🚀 PROJECT: **Redesigning GPT-2 for Spam Classification**  
 _(Custom LoRA Fine-Tuning & Normal Fine-Tuning)_
 
@@ -76,7 +80,11 @@ I also fine-tuned the model using **fully custom-built LoRA (Low-Rank Adaptation
 
 This project was built **entirely from scratch**! 🚀  
 ___
-    
+---
+---
+---
+---
+---
 1) NOTES RELATED TO BEART BASED MOVIE REVIEW 
 ![WhatsApp Image 2024-11-13 at 05 32 34_997bab61](https://github.com/user-attachments/assets/e41b47af-d855-4e02-9277-5c0c43f26a1f)
 
