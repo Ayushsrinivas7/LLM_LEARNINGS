@@ -114,6 +114,34 @@ Let me know if you'd like further improvements. 🔥
 ---
 ---
 ---
+# 🚀 **Project: Summarizer in Local Language using LangGraph**  
+
+I built a **language summarization system** where users provide text, and the system:  
+1️⃣ **Summarizes** the text in its **original language**.  
+2️⃣ **Translates** the summary into a **user-specified language**.  
+
+🔹 **Model Used:**  
+- Implemented using **LangGraph**.  
+- Powered by **Gemma 1.5 Flash** for efficient processing.  
+
+🔗 **[See the Code on GitHub](https://github.com/Ayushsrinivas7/Summarizer-in-the-local-language-)**  
+
+
+
+## 🔹 **How It Works (Visualization):**  
+![Summarization Process](https://drive.google.com/uc?export=view&id=1n-hlhENOTQI0_ILkdsQo12oPX3QLBoWE)
+
+
+
+This project demonstrates **multi-language summarization and translation** in an efficient pipeline! 🚀  
+ 
+
+
+---
+---
+---
+---
+---
 1) NOTES RELATED TO BEART BASED MOVIE REVIEW 
 ![WhatsApp Image 2024-11-13 at 05 32 34_997bab61](https://github.com/user-attachments/assets/e41b47af-d855-4e02-9277-5c0c43f26a1f)
 
